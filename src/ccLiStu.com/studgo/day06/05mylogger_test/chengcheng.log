@@ -1,0 +1,836 @@
+[2021-11-09 22:40:04] [INFO] [main.go:main.main:16] 这是一条info日志
+[2021-11-09 22:40:04] [WARNING] [main.go:main.main:17] 这是一条warning日志
+[2021-11-09 22:40:04] [Debug] [main.go:main.main:20] 这是一条Error日志, id:10010, name:理想
+[2021-11-09 22:40:04] [FATAL] [main.go:main.main:21] 这是一条Fatal日志
+[2021-11-09 22:40:05] [INFO] [main.go:main.main:16] 这是一条info日志
+[2021-11-09 22:40:05] [WARNING] [main.go:main.main:17] 这是一条warning日志
+[2021-11-09 22:40:05] [Debug] [main.go:main.main:20] 这是一条Error日志, id:10010, name:理想
+[2021-11-09 22:40:05] [FATAL] [main.go:main.main:21] 这是一条Fatal日志
+[2021-11-09 22:40:06] [INFO] [main.go:main.main:16] 这是一条info日志
+[2021-11-09 22:40:06] [WARNING] [main.go:main.main:17] 这是一条warning日志
+[2021-11-09 22:40:06] [Debug] [main.go:main.main:20] 这是一条Error日志, id:10010, name:理想
+[2021-11-09 22:40:06] [FATAL] [main.go:main.main:21] 这是一条Fatal日志
+[2021-11-09 22:40:07] [INFO] [main.go:main.main:16] 这是一条info日志
+[2021-11-09 22:40:07] [WARNING] [main.go:main.main:17] 这是一条warning日志
+[2021-11-09 22:40:07] [Debug] [main.go:main.main:20] 这是一条Error日志, id:10010, name:理想
+[2021-11-09 22:40:07] [FATAL] [main.go:main.main:21] 这是一条Fatal日志
+[2021-11-09 22:40:08] [INFO] [main.go:main.main:16] 这是一条info日志
+[2021-11-09 22:40:08] [WARNING] [main.go:main.main:17] 这是一条warning日志
+[2021-11-09 22:40:08] [Debug] [main.go:main.main:20] 这是一条Error日志, id:10010, name:理想
+[2021-11-09 22:40:08] [FATAL] [main.go:main.main:21] 这是一条Fatal日志
+[2021-11-09 22:40:09] [INFO] [main.go:main.main:16] 这是一条info日志
+[2021-11-09 22:40:09] [WARNING] [main.go:main.main:17] 这是一条warning日志
+[2021-11-09 22:40:09] [Debug] [main.go:main.main:20] 这是一条Error日志, id:10010, name:理想
+[2021-11-09 22:40:09] [FATAL] [main.go:main.main:21] 这是一条Fatal日志
+[2021-11-09 22:40:10] [INFO] [main.go:main.main:16] 这是一条info日志
+[2021-11-09 22:40:10] [WARNING] [main.go:main.main:17] 这是一条warning日志
+[2021-11-09 22:40:10] [Debug] [main.go:main.main:20] 这是一条Error日志, id:10010, name:理想
+[2021-11-09 22:40:10] [FATAL] [main.go:main.main:21] 这是一条Fatal日志
+[2021-11-09 22:40:11] [INFO] [main.go:main.main:16] 这是一条info日志
+[2021-11-09 22:40:11] [WARNING] [main.go:main.main:17] 这是一条warning日志
+[2021-11-09 22:40:11] [Debug] [main.go:main.main:20] 这是一条Error日志, id:10010, name:理想
+[2021-11-09 22:40:11] [FATAL] [main.go:main.main:21] 这是一条Fatal日志
+[2021-11-09 22:40:12] [INFO] [main.go:main.main:16] 这是一条info日志
+[2021-11-09 22:40:12] [WARNING] [main.go:main.main:17] 这是一条warning日志
+[2021-11-09 22:40:12] [Debug] [main.go:main.main:20] 这是一条Error日志, id:10010, name:理想
+[2021-11-09 22:40:12] [FATAL] [main.go:main.main:21] 这是一条Fatal日志
+[2021-11-09 22:40:13] [INFO] [main.go:main.main:16] 这是一条info日志
+[2021-11-09 22:40:13] [WARNING] [main.go:main.main:17] 这是一条warning日志
+[2021-11-09 22:40:13] [Debug] [main.go:main.main:20] 这是一条Error日志, id:10010, name:理想
+[2021-11-09 22:40:13] [FATAL] [main.go:main.main:21] 这是一条Fatal日志
+[2021-11-09 22:40:14] [INFO] [main.go:main.main:16] 这是一条info日志
+[2021-11-09 22:40:14] [WARNING] [main.go:main.main:17] 这是一条warning日志
+[2021-11-09 22:40:14] [Debug] [main.go:main.main:20] 这是一条Error日志, id:10010, name:理想
+[2021-11-09 22:40:14] [FATAL] [main.go:main.main:21] 这是一条Fatal日志
+[2021-11-09 22:40:15] [INFO] [main.go:main.main:16] 这是一条info日志
+[2021-11-09 22:40:15] [WARNING] [main.go:main.main:17] 这是一条warning日志
+[2021-11-09 22:40:15] [Debug] [main.go:main.main:20] 这是一条Error日志, id:10010, name:理想
+[2021-11-09 22:40:15] [FATAL] [main.go:main.main:21] 这是一条Fatal日志
+[2021-11-09 22:40:16] [INFO] [main.go:main.main:16] 这是一条info日志
+[2021-11-09 22:40:16] [WARNING] [main.go:main.main:17] 这是一条warning日志
+[2021-11-09 22:40:16] [Debug] [main.go:main.main:20] 这是一条Error日志, id:10010, name:理想
+[2021-11-09 22:40:16] [FATAL] [main.go:main.main:21] 这是一条Fatal日志
+[2021-11-09 22:40:17] [INFO] [main.go:main.main:16] 这是一条info日志
+[2021-11-09 22:40:17] [WARNING] [main.go:main.main:17] 这是一条warning日志
+[2021-11-09 22:40:17] [Debug] [main.go:main.main:20] 这是一条Error日志, id:10010, name:理想
+[2021-11-09 22:40:17] [FATAL] [main.go:main.main:21] 这是一条Fatal日志
+[2021-11-09 22:40:18] [INFO] [main.go:main.main:16] 这是一条info日志
+[2021-11-09 22:40:18] [WARNING] [main.go:main.main:17] 这是一条warning日志
+[2021-11-09 22:40:18] [Debug] [main.go:main.main:20] 这是一条Error日志, id:10010, name:理想
+[2021-11-09 22:40:18] [FATAL] [main.go:main.main:21] 这是一条Fatal日志
+[2021-11-09 22:40:19] [INFO] [main.go:main.main:16] 这是一条info日志
+[2021-11-09 22:40:19] [WARNING] [main.go:main.main:17] 这是一条warning日志
+[2021-11-09 22:40:19] [Debug] [main.go:main.main:20] 这是一条Error日志, id:10010, name:理想
+[2021-11-09 22:40:19] [FATAL] [main.go:main.main:21] 这是一条Fatal日志
+[2021-11-09 22:40:20] [INFO] [main.go:main.main:16] 这是一条info日志
+[2021-11-09 22:40:20] [WARNING] [main.go:main.main:17] 这是一条warning日志
+[2021-11-09 22:40:20] [Debug] [main.go:main.main:20] 这是一条Error日志, id:10010, name:理想
+[2021-11-09 22:40:20] [FATAL] [main.go:main.main:21] 这是一条Fatal日志
+[2021-11-09 22:40:21] [INFO] [main.go:main.main:16] 这是一条info日志
+[2021-11-09 22:40:21] [WARNING] [main.go:main.main:17] 这是一条warning日志
+[2021-11-09 22:40:21] [Debug] [main.go:main.main:20] 这是一条Error日志, id:10010, name:理想
+[2021-11-09 22:40:21] [FATAL] [main.go:main.main:21] 这是一条Fatal日志
+[2021-11-09 22:40:22] [INFO] [main.go:main.main:16] 这是一条info日志
+[2021-11-09 22:40:22] [WARNING] [main.go:main.main:17] 这是一条warning日志
+[2021-11-09 22:40:22] [Debug] [main.go:main.main:20] 这是一条Error日志, id:10010, name:理想
+[2021-11-09 22:40:22] [FATAL] [main.go:main.main:21] 这是一条Fatal日志
+[2021-11-09 22:40:23] [INFO] [main.go:main.main:16] 这是一条info日志
+[2021-11-09 22:40:23] [WARNING] [main.go:main.main:17] 这是一条warning日志
+[2021-11-09 22:40:23] [Debug] [main.go:main.main:20] 这是一条Error日志, id:10010, name:理想
+[2021-11-09 22:40:23] [FATAL] [main.go:main.main:21] 这是一条Fatal日志
+[2021-11-09 22:40:24] [INFO] [main.go:main.main:16] 这是一条info日志
+[2021-11-09 22:40:24] [WARNING] [main.go:main.main:17] 这是一条warning日志
+[2021-11-09 22:40:24] [Debug] [main.go:main.main:20] 这是一条Error日志, id:10010, name:理想
+[2021-11-09 22:40:24] [FATAL] [main.go:main.main:21] 这是一条Fatal日志
+[2021-11-09 22:40:25] [INFO] [main.go:main.main:16] 这是一条info日志
+[2021-11-09 22:40:25] [WARNING] [main.go:main.main:17] 这是一条warning日志
+[2021-11-09 22:40:25] [Debug] [main.go:main.main:20] 这是一条Error日志, id:10010, name:理想
+[2021-11-09 22:40:25] [FATAL] [main.go:main.main:21] 这是一条Fatal日志
+[2021-11-09 22:40:26] [INFO] [main.go:main.main:16] 这是一条info日志
+[2021-11-09 22:40:26] [WARNING] [main.go:main.main:17] 这是一条warning日志
+[2021-11-09 22:40:26] [Debug] [main.go:main.main:20] 这是一条Error日志, id:10010, name:理想
+[2021-11-09 22:40:26] [FATAL] [main.go:main.main:21] 这是一条Fatal日志
+[2021-11-09 22:40:27] [INFO] [main.go:main.main:16] 这是一条info日志
+[2021-11-09 22:40:27] [WARNING] [main.go:main.main:17] 这是一条warning日志
+[2021-11-09 22:40:27] [Debug] [main.go:main.main:20] 这是一条Error日志, id:10010, name:理想
+[2021-11-09 22:40:27] [FATAL] [main.go:main.main:21] 这是一条Fatal日志
+[2021-11-09 22:40:28] [INFO] [main.go:main.main:16] 这是一条info日志
+[2021-11-09 22:40:28] [WARNING] [main.go:main.main:17] 这是一条warning日志
+[2021-11-09 22:40:28] [Debug] [main.go:main.main:20] 这是一条Error日志, id:10010, name:理想
+[2021-11-09 22:40:28] [FATAL] [main.go:main.main:21] 这是一条Fatal日志
+[2021-11-09 22:40:29] [INFO] [main.go:main.main:16] 这是一条info日志
+[2021-11-09 22:40:29] [WARNING] [main.go:main.main:17] 这是一条warning日志
+[2021-11-09 22:40:29] [Debug] [main.go:main.main:20] 这是一条Error日志, id:10010, name:理想
+[2021-11-09 22:40:29] [FATAL] [main.go:main.main:21] 这是一条Fatal日志
+[2021-11-09 22:40:30] [INFO] [main.go:main.main:16] 这是一条info日志
+[2021-11-09 22:40:30] [WARNING] [main.go:main.main:17] 这是一条warning日志
+[2021-11-09 22:40:30] [Debug] [main.go:main.main:20] 这是一条Error日志, id:10010, name:理想
+[2021-11-09 22:40:30] [FATAL] [main.go:main.main:21] 这是一条Fatal日志
+[2021-11-09 22:40:31] [INFO] [main.go:main.main:16] 这是一条info日志
+[2021-11-09 22:40:31] [WARNING] [main.go:main.main:17] 这是一条warning日志
+[2021-11-09 22:40:31] [Debug] [main.go:main.main:20] 这是一条Error日志, id:10010, name:理想
+[2021-11-09 22:40:31] [FATAL] [main.go:main.main:21] 这是一条Fatal日志
+[2021-11-09 22:40:32] [INFO] [main.go:main.main:16] 这是一条info日志
+[2021-11-09 22:40:32] [WARNING] [main.go:main.main:17] 这是一条warning日志
+[2021-11-09 22:40:32] [Debug] [main.go:main.main:20] 这是一条Error日志, id:10010, name:理想
+[2021-11-09 22:40:32] [FATAL] [main.go:main.main:21] 这是一条Fatal日志
+[2021-11-09 22:40:33] [INFO] [main.go:main.main:16] 这是一条info日志
+[2021-11-09 22:40:33] [WARNING] [main.go:main.main:17] 这是一条warning日志
+[2021-11-09 22:40:33] [Debug] [main.go:main.main:20] 这是一条Error日志, id:10010, name:理想
+[2021-11-09 22:40:33] [FATAL] [main.go:main.main:21] 这是一条Fatal日志
+[2021-11-09 22:40:34] [INFO] [main.go:main.main:16] 这是一条info日志
+[2021-11-09 22:40:34] [WARNING] [main.go:main.main:17] 这是一条warning日志
+[2021-11-09 22:40:34] [Debug] [main.go:main.main:20] 这是一条Error日志, id:10010, name:理想
+[2021-11-09 22:40:34] [FATAL] [main.go:main.main:21] 这是一条Fatal日志
+[2021-11-09 22:40:35] [INFO] [main.go:main.main:16] 这是一条info日志
+[2021-11-09 22:40:35] [WARNING] [main.go:main.main:17] 这是一条warning日志
+[2021-11-09 22:40:35] [Debug] [main.go:main.main:20] 这是一条Error日志, id:10010, name:理想
+[2021-11-09 22:40:35] [FATAL] [main.go:main.main:21] 这是一条Fatal日志
+[2021-11-09 22:40:36] [INFO] [main.go:main.main:16] 这是一条info日志
+[2021-11-09 22:40:36] [WARNING] [main.go:main.main:17] 这是一条warning日志
+[2021-11-09 22:40:36] [Debug] [main.go:main.main:20] 这是一条Error日志, id:10010, name:理想
+[2021-11-09 22:40:36] [FATAL] [main.go:main.main:21] 这是一条Fatal日志
+[2021-11-09 22:40:37] [INFO] [main.go:main.main:16] 这是一条info日志
+[2021-11-09 22:40:37] [WARNING] [main.go:main.main:17] 这是一条warning日志
+[2021-11-09 22:40:37] [Debug] [main.go:main.main:20] 这是一条Error日志, id:10010, name:理想
+[2021-11-09 22:40:37] [FATAL] [main.go:main.main:21] 这是一条Fatal日志
+[2021-11-09 22:40:38] [INFO] [main.go:main.main:16] 这是一条info日志
+[2021-11-09 22:40:38] [WARNING] [main.go:main.main:17] 这是一条warning日志
+[2021-11-09 22:40:38] [Debug] [main.go:main.main:20] 这是一条Error日志, id:10010, name:理想
+[2021-11-09 22:40:38] [FATAL] [main.go:main.main:21] 这是一条Fatal日志
+[2021-11-09 22:40:39] [INFO] [main.go:main.main:16] 这是一条info日志
+[2021-11-09 22:40:39] [WARNING] [main.go:main.main:17] 这是一条warning日志
+[2021-11-09 22:40:39] [Debug] [main.go:main.main:20] 这是一条Error日志, id:10010, name:理想
+[2021-11-09 22:40:39] [FATAL] [main.go:main.main:21] 这是一条Fatal日志
+[2021-11-09 22:40:40] [INFO] [main.go:main.main:16] 这是一条info日志
+[2021-11-09 22:40:40] [WARNING] [main.go:main.main:17] 这是一条warning日志
+[2021-11-09 22:40:40] [Debug] [main.go:main.main:20] 这是一条Error日志, id:10010, name:理想
+[2021-11-09 22:40:40] [FATAL] [main.go:main.main:21] 这是一条Fatal日志
+[2021-11-09 22:40:41] [INFO] [main.go:main.main:16] 这是一条info日志
+[2021-11-09 22:40:41] [WARNING] [main.go:main.main:17] 这是一条warning日志
+[2021-11-09 22:40:41] [Debug] [main.go:main.main:20] 这是一条Error日志, id:10010, name:理想
+[2021-11-09 22:40:41] [FATAL] [main.go:main.main:21] 这是一条Fatal日志
+[2021-11-09 22:40:42] [INFO] [main.go:main.main:16] 这是一条info日志
+[2021-11-09 22:40:42] [WARNING] [main.go:main.main:17] 这是一条warning日志
+[2021-11-09 22:40:42] [Debug] [main.go:main.main:20] 这是一条Error日志, id:10010, name:理想
+[2021-11-09 22:40:42] [FATAL] [main.go:main.main:21] 这是一条Fatal日志
+[2021-11-09 22:40:43] [INFO] [main.go:main.main:16] 这是一条info日志
+[2021-11-09 22:40:43] [WARNING] [main.go:main.main:17] 这是一条warning日志
+[2021-11-09 22:40:43] [Debug] [main.go:main.main:20] 这是一条Error日志, id:10010, name:理想
+[2021-11-09 22:40:43] [FATAL] [main.go:main.main:21] 这是一条Fatal日志
+[2021-11-09 22:40:44] [INFO] [main.go:main.main:16] 这是一条info日志
+[2021-11-09 22:40:44] [WARNING] [main.go:main.main:17] 这是一条warning日志
+[2021-11-09 22:40:44] [Debug] [main.go:main.main:20] 这是一条Error日志, id:10010, name:理想
+[2021-11-09 22:40:44] [FATAL] [main.go:main.main:21] 这是一条Fatal日志
+[2021-11-09 22:40:45] [INFO] [main.go:main.main:16] 这是一条info日志
+[2021-11-09 22:40:45] [WARNING] [main.go:main.main:17] 这是一条warning日志
+[2021-11-09 22:40:45] [Debug] [main.go:main.main:20] 这是一条Error日志, id:10010, name:理想
+[2021-11-09 22:40:45] [FATAL] [main.go:main.main:21] 这是一条Fatal日志
+[2021-11-09 22:40:46] [INFO] [main.go:main.main:16] 这是一条info日志
+[2021-11-09 22:40:46] [WARNING] [main.go:main.main:17] 这是一条warning日志
+[2021-11-09 22:40:46] [Debug] [main.go:main.main:20] 这是一条Error日志, id:10010, name:理想
+[2021-11-09 22:40:46] [FATAL] [main.go:main.main:21] 这是一条Fatal日志
+[2021-11-09 22:40:47] [INFO] [main.go:main.main:16] 这是一条info日志
+[2021-11-09 22:40:47] [WARNING] [main.go:main.main:17] 这是一条warning日志
+[2021-11-09 22:40:47] [Debug] [main.go:main.main:20] 这是一条Error日志, id:10010, name:理想
+[2021-11-09 22:40:47] [FATAL] [main.go:main.main:21] 这是一条Fatal日志
+[2021-11-09 22:40:48] [INFO] [main.go:main.main:16] 这是一条info日志
+[2021-11-09 22:40:48] [WARNING] [main.go:main.main:17] 这是一条warning日志
+[2021-11-09 22:40:48] [Debug] [main.go:main.main:20] 这是一条Error日志, id:10010, name:理想
+[2021-11-09 22:40:48] [FATAL] [main.go:main.main:21] 这是一条Fatal日志
+[2021-11-09 22:40:49] [INFO] [main.go:main.main:16] 这是一条info日志
+[2021-11-09 22:40:49] [WARNING] [main.go:main.main:17] 这是一条warning日志
+[2021-11-09 22:40:49] [Debug] [main.go:main.main:20] 这是一条Error日志, id:10010, name:理想
+[2021-11-09 22:40:49] [FATAL] [main.go:main.main:21] 这是一条Fatal日志
+[2021-11-09 22:40:50] [INFO] [main.go:main.main:16] 这是一条info日志
+[2021-11-09 22:40:50] [WARNING] [main.go:main.main:17] 这是一条warning日志
+[2021-11-09 22:40:50] [Debug] [main.go:main.main:20] 这是一条Error日志, id:10010, name:理想
+[2021-11-09 22:40:50] [FATAL] [main.go:main.main:21] 这是一条Fatal日志
+[2021-11-09 22:40:51] [INFO] [main.go:main.main:16] 这是一条info日志
+[2021-11-09 22:40:51] [WARNING] [main.go:main.main:17] 这是一条warning日志
+[2021-11-09 22:40:51] [Debug] [main.go:main.main:20] 这是一条Error日志, id:10010, name:理想
+[2021-11-09 22:40:51] [FATAL] [main.go:main.main:21] 这是一条Fatal日志
+[2021-11-09 22:40:52] [INFO] [main.go:main.main:16] 这是一条info日志
+[2021-11-09 22:40:52] [WARNING] [main.go:main.main:17] 这是一条warning日志
+[2021-11-09 22:40:52] [Debug] [main.go:main.main:20] 这是一条Error日志, id:10010, name:理想
+[2021-11-09 22:40:52] [FATAL] [main.go:main.main:21] 这是一条Fatal日志
+[2021-11-09 22:40:53] [INFO] [main.go:main.main:16] 这是一条info日志
+[2021-11-09 22:40:53] [WARNING] [main.go:main.main:17] 这是一条warning日志
+[2021-11-09 22:40:53] [Debug] [main.go:main.main:20] 这是一条Error日志, id:10010, name:理想
+[2021-11-09 22:40:53] [FATAL] [main.go:main.main:21] 这是一条Fatal日志
+[2021-11-09 22:40:54] [INFO] [main.go:main.main:16] 这是一条info日志
+[2021-11-09 22:40:54] [WARNING] [main.go:main.main:17] 这是一条warning日志
+[2021-11-09 22:40:54] [Debug] [main.go:main.main:20] 这是一条Error日志, id:10010, name:理想
+[2021-11-09 22:40:54] [FATAL] [main.go:main.main:21] 这是一条Fatal日志
+[2021-11-09 22:40:55] [INFO] [main.go:main.main:16] 这是一条info日志
+[2021-11-09 22:40:55] [WARNING] [main.go:main.main:17] 这是一条warning日志
+[2021-11-09 22:40:55] [Debug] [main.go:main.main:20] 这是一条Error日志, id:10010, name:理想
+[2021-11-09 22:40:55] [FATAL] [main.go:main.main:21] 这是一条Fatal日志
+[2021-11-09 22:40:56] [INFO] [main.go:main.main:16] 这是一条info日志
+[2021-11-09 22:40:56] [WARNING] [main.go:main.main:17] 这是一条warning日志
+[2021-11-09 22:40:56] [Debug] [main.go:main.main:20] 这是一条Error日志, id:10010, name:理想
+[2021-11-09 22:40:56] [FATAL] [main.go:main.main:21] 这是一条Fatal日志
+[2021-11-09 22:40:57] [INFO] [main.go:main.main:16] 这是一条info日志
+[2021-11-09 22:40:57] [WARNING] [main.go:main.main:17] 这是一条warning日志
+[2021-11-09 22:40:57] [Debug] [main.go:main.main:20] 这是一条Error日志, id:10010, name:理想
+[2021-11-09 22:40:57] [FATAL] [main.go:main.main:21] 这是一条Fatal日志
+[2021-11-09 22:40:58] [INFO] [main.go:main.main:16] 这是一条info日志
+[2021-11-09 22:40:58] [WARNING] [main.go:main.main:17] 这是一条warning日志
+[2021-11-09 22:40:58] [Debug] [main.go:main.main:20] 这是一条Error日志, id:10010, name:理想
+[2021-11-09 22:40:58] [FATAL] [main.go:main.main:21] 这是一条Fatal日志
+[2021-11-09 22:40:59] [INFO] [main.go:main.main:16] 这是一条info日志
+[2021-11-09 22:40:59] [WARNING] [main.go:main.main:17] 这是一条warning日志
+[2021-11-09 22:40:59] [Debug] [main.go:main.main:20] 这是一条Error日志, id:10010, name:理想
+[2021-11-09 22:40:59] [FATAL] [main.go:main.main:21] 这是一条Fatal日志
+[2021-11-09 22:41:00] [INFO] [main.go:main.main:16] 这是一条info日志
+[2021-11-09 22:41:00] [WARNING] [main.go:main.main:17] 这是一条warning日志
+[2021-11-09 22:41:00] [Debug] [main.go:main.main:20] 这是一条Error日志, id:10010, name:理想
+[2021-11-09 22:41:00] [FATAL] [main.go:main.main:21] 这是一条Fatal日志
+[2021-11-09 22:41:01] [INFO] [main.go:main.main:16] 这是一条info日志
+[2021-11-09 22:41:01] [WARNING] [main.go:main.main:17] 这是一条warning日志
+[2021-11-09 22:41:01] [Debug] [main.go:main.main:20] 这是一条Error日志, id:10010, name:理想
+[2021-11-09 22:41:01] [FATAL] [main.go:main.main:21] 这是一条Fatal日志
+[2021-11-09 22:41:02] [INFO] [main.go:main.main:16] 这是一条info日志
+[2021-11-09 22:41:02] [WARNING] [main.go:main.main:17] 这是一条warning日志
+[2021-11-09 22:41:02] [Debug] [main.go:main.main:20] 这是一条Error日志, id:10010, name:理想
+[2021-11-09 22:41:02] [FATAL] [main.go:main.main:21] 这是一条Fatal日志
+[2021-11-09 22:41:03] [INFO] [main.go:main.main:16] 这是一条info日志
+[2021-11-09 22:41:03] [WARNING] [main.go:main.main:17] 这是一条warning日志
+[2021-11-09 22:41:03] [Debug] [main.go:main.main:20] 这是一条Error日志, id:10010, name:理想
+[2021-11-09 22:41:03] [FATAL] [main.go:main.main:21] 这是一条Fatal日志
+[2021-11-09 22:41:04] [INFO] [main.go:main.main:16] 这是一条info日志
+[2021-11-09 22:41:04] [WARNING] [main.go:main.main:17] 这是一条warning日志
+[2021-11-09 22:41:04] [Debug] [main.go:main.main:20] 这是一条Error日志, id:10010, name:理想
+[2021-11-09 22:41:04] [FATAL] [main.go:main.main:21] 这是一条Fatal日志
+[2021-11-09 22:41:05] [INFO] [main.go:main.main:16] 这是一条info日志
+[2021-11-09 22:41:05] [WARNING] [main.go:main.main:17] 这是一条warning日志
+[2021-11-09 22:41:05] [Debug] [main.go:main.main:20] 这是一条Error日志, id:10010, name:理想
+[2021-11-09 22:41:05] [FATAL] [main.go:main.main:21] 这是一条Fatal日志
+[2021-11-09 22:41:06] [INFO] [main.go:main.main:16] 这是一条info日志
+[2021-11-09 22:41:06] [WARNING] [main.go:main.main:17] 这是一条warning日志
+[2021-11-09 22:41:06] [Debug] [main.go:main.main:20] 这是一条Error日志, id:10010, name:理想
+[2021-11-09 22:41:06] [FATAL] [main.go:main.main:21] 这是一条Fatal日志
+[2021-11-09 22:41:07] [INFO] [main.go:main.main:16] 这是一条info日志
+[2021-11-09 22:41:07] [WARNING] [main.go:main.main:17] 这是一条warning日志
+[2021-11-09 22:41:07] [Debug] [main.go:main.main:20] 这是一条Error日志, id:10010, name:理想
+[2021-11-09 22:41:07] [FATAL] [main.go:main.main:21] 这是一条Fatal日志
+[2021-11-09 22:41:08] [INFO] [main.go:main.main:16] 这是一条info日志
+[2021-11-09 22:41:08] [WARNING] [main.go:main.main:17] 这是一条warning日志
+[2021-11-09 22:41:08] [Debug] [main.go:main.main:20] 这是一条Error日志, id:10010, name:理想
+[2021-11-09 22:41:08] [FATAL] [main.go:main.main:21] 这是一条Fatal日志
+[2021-11-09 22:41:09] [INFO] [main.go:main.main:16] 这是一条info日志
+[2021-11-09 22:41:09] [WARNING] [main.go:main.main:17] 这是一条warning日志
+[2021-11-09 22:41:09] [Debug] [main.go:main.main:20] 这是一条Error日志, id:10010, name:理想
+[2021-11-09 22:41:09] [FATAL] [main.go:main.main:21] 这是一条Fatal日志
+[2021-11-09 22:41:10] [INFO] [main.go:main.main:16] 这是一条info日志
+[2021-11-09 22:41:10] [WARNING] [main.go:main.main:17] 这是一条warning日志
+[2021-11-09 22:41:10] [Debug] [main.go:main.main:20] 这是一条Error日志, id:10010, name:理想
+[2021-11-09 22:41:10] [FATAL] [main.go:main.main:21] 这是一条Fatal日志
+[2021-11-09 22:41:11] [INFO] [main.go:main.main:16] 这是一条info日志
+[2021-11-09 22:41:11] [WARNING] [main.go:main.main:17] 这是一条warning日志
+[2021-11-09 22:41:11] [Debug] [main.go:main.main:20] 这是一条Error日志, id:10010, name:理想
+[2021-11-09 22:41:11] [FATAL] [main.go:main.main:21] 这是一条Fatal日志
+[2021-11-09 22:41:12] [INFO] [main.go:main.main:16] 这是一条info日志
+[2021-11-09 22:41:12] [WARNING] [main.go:main.main:17] 这是一条warning日志
+[2021-11-09 22:41:12] [Debug] [main.go:main.main:20] 这是一条Error日志, id:10010, name:理想
+[2021-11-09 22:41:12] [FATAL] [main.go:main.main:21] 这是一条Fatal日志
+[2021-11-09 22:41:13] [INFO] [main.go:main.main:16] 这是一条info日志
+[2021-11-09 22:41:13] [WARNING] [main.go:main.main:17] 这是一条warning日志
+[2021-11-09 22:41:13] [Debug] [main.go:main.main:20] 这是一条Error日志, id:10010, name:理想
+[2021-11-09 22:41:13] [FATAL] [main.go:main.main:21] 这是一条Fatal日志
+[2021-11-09 22:41:14] [INFO] [main.go:main.main:16] 这是一条info日志
+[2021-11-09 22:41:14] [WARNING] [main.go:main.main:17] 这是一条warning日志
+[2021-11-09 22:41:14] [Debug] [main.go:main.main:20] 这是一条Error日志, id:10010, name:理想
+[2021-11-09 22:41:14] [FATAL] [main.go:main.main:21] 这是一条Fatal日志
+[2021-11-09 22:41:15] [INFO] [main.go:main.main:16] 这是一条info日志
+[2021-11-09 22:41:15] [WARNING] [main.go:main.main:17] 这是一条warning日志
+[2021-11-09 22:41:15] [Debug] [main.go:main.main:20] 这是一条Error日志, id:10010, name:理想
+[2021-11-09 22:41:15] [FATAL] [main.go:main.main:21] 这是一条Fatal日志
+[2021-11-09 22:41:16] [INFO] [main.go:main.main:16] 这是一条info日志
+[2021-11-09 22:41:16] [WARNING] [main.go:main.main:17] 这是一条warning日志
+[2021-11-09 22:41:16] [Debug] [main.go:main.main:20] 这是一条Error日志, id:10010, name:理想
+[2021-11-09 22:41:16] [FATAL] [main.go:main.main:21] 这是一条Fatal日志
+[2021-11-09 22:41:17] [INFO] [main.go:main.main:16] 这是一条info日志
+[2021-11-09 22:41:17] [WARNING] [main.go:main.main:17] 这是一条warning日志
+[2021-11-09 22:41:17] [Debug] [main.go:main.main:20] 这是一条Error日志, id:10010, name:理想
+[2021-11-09 22:41:17] [FATAL] [main.go:main.main:21] 这是一条Fatal日志
+[2021-11-09 22:41:18] [INFO] [main.go:main.main:16] 这是一条info日志
+[2021-11-09 22:41:18] [WARNING] [main.go:main.main:17] 这是一条warning日志
+[2021-11-09 22:41:18] [Debug] [main.go:main.main:20] 这是一条Error日志, id:10010, name:理想
+[2021-11-09 22:41:18] [FATAL] [main.go:main.main:21] 这是一条Fatal日志
+[2021-11-09 22:41:19] [INFO] [main.go:main.main:16] 这是一条info日志
+[2021-11-09 22:41:19] [WARNING] [main.go:main.main:17] 这是一条warning日志
+[2021-11-09 22:41:19] [Debug] [main.go:main.main:20] 这是一条Error日志, id:10010, name:理想
+[2021-11-09 22:41:19] [FATAL] [main.go:main.main:21] 这是一条Fatal日志
+[2021-11-09 22:41:20] [INFO] [main.go:main.main:16] 这是一条info日志
+[2021-11-09 22:41:20] [WARNING] [main.go:main.main:17] 这是一条warning日志
+[2021-11-09 22:41:20] [Debug] [main.go:main.main:20] 这是一条Error日志, id:10010, name:理想
+[2021-11-09 22:41:20] [FATAL] [main.go:main.main:21] 这是一条Fatal日志
+[2021-11-09 22:41:21] [INFO] [main.go:main.main:16] 这是一条info日志
+[2021-11-09 22:41:21] [WARNING] [main.go:main.main:17] 这是一条warning日志
+[2021-11-09 22:41:21] [Debug] [main.go:main.main:20] 这是一条Error日志, id:10010, name:理想
+[2021-11-09 22:41:21] [FATAL] [main.go:main.main:21] 这是一条Fatal日志
+[2021-11-09 22:41:22] [INFO] [main.go:main.main:16] 这是一条info日志
+[2021-11-09 22:41:22] [WARNING] [main.go:main.main:17] 这是一条warning日志
+[2021-11-09 22:41:22] [Debug] [main.go:main.main:20] 这是一条Error日志, id:10010, name:理想
+[2021-11-09 22:41:22] [FATAL] [main.go:main.main:21] 这是一条Fatal日志
+[2021-11-09 22:41:23] [INFO] [main.go:main.main:16] 这是一条info日志
+[2021-11-09 22:41:23] [WARNING] [main.go:main.main:17] 这是一条warning日志
+[2021-11-09 22:41:23] [Debug] [main.go:main.main:20] 这是一条Error日志, id:10010, name:理想
+[2021-11-09 22:41:23] [FATAL] [main.go:main.main:21] 这是一条Fatal日志
+[2021-11-09 22:41:24] [INFO] [main.go:main.main:16] 这是一条info日志
+[2021-11-09 22:41:24] [WARNING] [main.go:main.main:17] 这是一条warning日志
+[2021-11-09 22:41:24] [Debug] [main.go:main.main:20] 这是一条Error日志, id:10010, name:理想
+[2021-11-09 22:41:24] [FATAL] [main.go:main.main:21] 这是一条Fatal日志
+[2021-11-09 22:41:25] [INFO] [main.go:main.main:16] 这是一条info日志
+[2021-11-09 22:41:25] [WARNING] [main.go:main.main:17] 这是一条warning日志
+[2021-11-09 22:41:25] [Debug] [main.go:main.main:20] 这是一条Error日志, id:10010, name:理想
+[2021-11-09 22:41:25] [FATAL] [main.go:main.main:21] 这是一条Fatal日志
+[2021-11-09 22:41:26] [INFO] [main.go:main.main:16] 这是一条info日志
+[2021-11-09 22:41:26] [WARNING] [main.go:main.main:17] 这是一条warning日志
+[2021-11-09 22:41:26] [Debug] [main.go:main.main:20] 这是一条Error日志, id:10010, name:理想
+[2021-11-09 22:41:26] [FATAL] [main.go:main.main:21] 这是一条Fatal日志
+[2021-11-09 22:41:27] [INFO] [main.go:main.main:16] 这是一条info日志
+[2021-11-09 22:41:27] [WARNING] [main.go:main.main:17] 这是一条warning日志
+[2021-11-09 22:41:27] [Debug] [main.go:main.main:20] 这是一条Error日志, id:10010, name:理想
+[2021-11-09 22:41:27] [FATAL] [main.go:main.main:21] 这是一条Fatal日志
+[2021-11-09 22:41:28] [INFO] [main.go:main.main:16] 这是一条info日志
+[2021-11-09 22:41:28] [WARNING] [main.go:main.main:17] 这是一条warning日志
+[2021-11-09 22:41:28] [Debug] [main.go:main.main:20] 这是一条Error日志, id:10010, name:理想
+[2021-11-09 22:41:28] [FATAL] [main.go:main.main:21] 这是一条Fatal日志
+[2021-11-09 22:41:29] [INFO] [main.go:main.main:16] 这是一条info日志
+[2021-11-09 22:41:29] [WARNING] [main.go:main.main:17] 这是一条warning日志
+[2021-11-09 22:41:29] [Debug] [main.go:main.main:20] 这是一条Error日志, id:10010, name:理想
+[2021-11-09 22:41:29] [FATAL] [main.go:main.main:21] 这是一条Fatal日志
+[2021-11-09 22:41:30] [INFO] [main.go:main.main:16] 这是一条info日志
+[2021-11-09 22:41:30] [WARNING] [main.go:main.main:17] 这是一条warning日志
+[2021-11-09 22:41:30] [Debug] [main.go:main.main:20] 这是一条Error日志, id:10010, name:理想
+[2021-11-09 22:41:30] [FATAL] [main.go:main.main:21] 这是一条Fatal日志
+[2021-11-09 22:41:31] [INFO] [main.go:main.main:16] 这是一条info日志
+[2021-11-09 22:41:31] [WARNING] [main.go:main.main:17] 这是一条warning日志
+[2021-11-09 22:41:31] [Debug] [main.go:main.main:20] 这是一条Error日志, id:10010, name:理想
+[2021-11-09 22:41:31] [FATAL] [main.go:main.main:21] 这是一条Fatal日志
+[2021-11-09 22:41:32] [INFO] [main.go:main.main:16] 这是一条info日志
+[2021-11-09 22:41:32] [WARNING] [main.go:main.main:17] 这是一条warning日志
+[2021-11-09 22:41:32] [Debug] [main.go:main.main:20] 这是一条Error日志, id:10010, name:理想
+[2021-11-09 22:41:32] [FATAL] [main.go:main.main:21] 这是一条Fatal日志
+[2021-11-09 22:41:33] [INFO] [main.go:main.main:16] 这是一条info日志
+[2021-11-09 22:41:33] [WARNING] [main.go:main.main:17] 这是一条warning日志
+[2021-11-09 22:41:33] [Debug] [main.go:main.main:20] 这是一条Error日志, id:10010, name:理想
+[2021-11-09 22:41:33] [FATAL] [main.go:main.main:21] 这是一条Fatal日志
+[2021-11-09 22:41:34] [INFO] [main.go:main.main:16] 这是一条info日志
+[2021-11-09 22:41:34] [WARNING] [main.go:main.main:17] 这是一条warning日志
+[2021-11-09 22:41:34] [Debug] [main.go:main.main:20] 这是一条Error日志, id:10010, name:理想
+[2021-11-09 22:41:34] [FATAL] [main.go:main.main:21] 这是一条Fatal日志
+[2021-11-09 22:41:35] [INFO] [main.go:main.main:16] 这是一条info日志
+[2021-11-09 22:41:35] [WARNING] [main.go:main.main:17] 这是一条warning日志
+[2021-11-09 22:41:35] [Debug] [main.go:main.main:20] 这是一条Error日志, id:10010, name:理想
+[2021-11-09 22:41:35] [FATAL] [main.go:main.main:21] 这是一条Fatal日志
+[2021-11-09 22:41:36] [INFO] [main.go:main.main:16] 这是一条info日志
+[2021-11-09 22:41:36] [WARNING] [main.go:main.main:17] 这是一条warning日志
+[2021-11-09 22:41:36] [Debug] [main.go:main.main:20] 这是一条Error日志, id:10010, name:理想
+[2021-11-09 22:41:36] [FATAL] [main.go:main.main:21] 这是一条Fatal日志
+[2021-11-09 22:41:37] [INFO] [main.go:main.main:16] 这是一条info日志
+[2021-11-09 22:41:37] [WARNING] [main.go:main.main:17] 这是一条warning日志
+[2021-11-09 22:41:37] [Debug] [main.go:main.main:20] 这是一条Error日志, id:10010, name:理想
+[2021-11-09 22:41:37] [FATAL] [main.go:main.main:21] 这是一条Fatal日志
+[2021-11-09 22:41:38] [INFO] [main.go:main.main:16] 这是一条info日志
+[2021-11-09 22:41:38] [WARNING] [main.go:main.main:17] 这是一条warning日志
+[2021-11-09 22:41:38] [Debug] [main.go:main.main:20] 这是一条Error日志, id:10010, name:理想
+[2021-11-09 22:41:38] [FATAL] [main.go:main.main:21] 这是一条Fatal日志
+[2021-11-09 22:41:39] [INFO] [main.go:main.main:16] 这是一条info日志
+[2021-11-09 22:41:39] [WARNING] [main.go:main.main:17] 这是一条warning日志
+[2021-11-09 22:41:39] [Debug] [main.go:main.main:20] 这是一条Error日志, id:10010, name:理想
+[2021-11-09 22:41:39] [FATAL] [main.go:main.main:21] 这是一条Fatal日志
+[2021-11-09 22:41:40] [INFO] [main.go:main.main:16] 这是一条info日志
+[2021-11-09 22:41:40] [WARNING] [main.go:main.main:17] 这是一条warning日志
+[2021-11-09 22:41:40] [Debug] [main.go:main.main:20] 这是一条Error日志, id:10010, name:理想
+[2021-11-09 22:41:40] [FATAL] [main.go:main.main:21] 这是一条Fatal日志
+[2021-11-09 22:41:41] [INFO] [main.go:main.main:16] 这是一条info日志
+[2021-11-09 22:41:41] [WARNING] [main.go:main.main:17] 这是一条warning日志
+[2021-11-09 22:41:41] [Debug] [main.go:main.main:20] 这是一条Error日志, id:10010, name:理想
+[2021-11-09 22:41:41] [FATAL] [main.go:main.main:21] 这是一条Fatal日志
+[2021-11-09 22:41:42] [INFO] [main.go:main.main:16] 这是一条info日志
+[2021-11-09 22:41:42] [WARNING] [main.go:main.main:17] 这是一条warning日志
+[2021-11-09 22:41:42] [Debug] [main.go:main.main:20] 这是一条Error日志, id:10010, name:理想
+[2021-11-09 22:41:42] [FATAL] [main.go:main.main:21] 这是一条Fatal日志
+[2021-11-09 22:41:43] [INFO] [main.go:main.main:16] 这是一条info日志
+[2021-11-09 22:41:43] [WARNING] [main.go:main.main:17] 这是一条warning日志
+[2021-11-09 22:41:43] [Debug] [main.go:main.main:20] 这是一条Error日志, id:10010, name:理想
+[2021-11-09 22:41:43] [FATAL] [main.go:main.main:21] 这是一条Fatal日志
+[2021-11-09 22:41:44] [INFO] [main.go:main.main:16] 这是一条info日志
+[2021-11-09 22:41:44] [WARNING] [main.go:main.main:17] 这是一条warning日志
+[2021-11-09 22:41:44] [Debug] [main.go:main.main:20] 这是一条Error日志, id:10010, name:理想
+[2021-11-09 22:41:44] [FATAL] [main.go:main.main:21] 这是一条Fatal日志
+[2021-11-09 22:41:45] [INFO] [main.go:main.main:16] 这是一条info日志
+[2021-11-09 22:41:45] [WARNING] [main.go:main.main:17] 这是一条warning日志
+[2021-11-09 22:41:45] [Debug] [main.go:main.main:20] 这是一条Error日志, id:10010, name:理想
+[2021-11-09 22:41:45] [FATAL] [main.go:main.main:21] 这是一条Fatal日志
+[2021-11-09 22:41:46] [INFO] [main.go:main.main:16] 这是一条info日志
+[2021-11-09 22:41:46] [WARNING] [main.go:main.main:17] 这是一条warning日志
+[2021-11-09 22:41:46] [Debug] [main.go:main.main:20] 这是一条Error日志, id:10010, name:理想
+[2021-11-09 22:41:46] [FATAL] [main.go:main.main:21] 这是一条Fatal日志
+[2021-11-09 22:41:47] [INFO] [main.go:main.main:16] 这是一条info日志
+[2021-11-09 22:41:47] [WARNING] [main.go:main.main:17] 这是一条warning日志
+[2021-11-09 22:41:47] [Debug] [main.go:main.main:20] 这是一条Error日志, id:10010, name:理想
+[2021-11-09 22:41:47] [FATAL] [main.go:main.main:21] 这是一条Fatal日志
+[2021-11-09 22:41:48] [INFO] [main.go:main.main:16] 这是一条info日志
+[2021-11-09 22:41:48] [WARNING] [main.go:main.main:17] 这是一条warning日志
+[2021-11-09 22:41:48] [Debug] [main.go:main.main:20] 这是一条Error日志, id:10010, name:理想
+[2021-11-09 22:41:48] [FATAL] [main.go:main.main:21] 这是一条Fatal日志
+[2021-11-09 22:41:49] [INFO] [main.go:main.main:16] 这是一条info日志
+[2021-11-09 22:41:49] [WARNING] [main.go:main.main:17] 这是一条warning日志
+[2021-11-09 22:41:49] [Debug] [main.go:main.main:20] 这是一条Error日志, id:10010, name:理想
+[2021-11-09 22:41:49] [FATAL] [main.go:main.main:21] 这是一条Fatal日志
+[2021-11-09 22:41:50] [INFO] [main.go:main.main:16] 这是一条info日志
+[2021-11-09 22:41:50] [WARNING] [main.go:main.main:17] 这是一条warning日志
+[2021-11-09 22:41:50] [Debug] [main.go:main.main:20] 这是一条Error日志, id:10010, name:理想
+[2021-11-09 22:41:50] [FATAL] [main.go:main.main:21] 这是一条Fatal日志
+[2021-11-09 22:41:51] [INFO] [main.go:main.main:16] 这是一条info日志
+[2021-11-09 22:41:51] [WARNING] [main.go:main.main:17] 这是一条warning日志
+[2021-11-09 22:41:51] [Debug] [main.go:main.main:20] 这是一条Error日志, id:10010, name:理想
+[2021-11-09 22:41:51] [FATAL] [main.go:main.main:21] 这是一条Fatal日志
+[2021-11-09 22:41:52] [INFO] [main.go:main.main:16] 这是一条info日志
+[2021-11-09 22:41:52] [WARNING] [main.go:main.main:17] 这是一条warning日志
+[2021-11-09 22:41:52] [Debug] [main.go:main.main:20] 这是一条Error日志, id:10010, name:理想
+[2021-11-09 22:41:52] [FATAL] [main.go:main.main:21] 这是一条Fatal日志
+[2021-11-09 22:41:53] [INFO] [main.go:main.main:16] 这是一条info日志
+[2021-11-09 22:41:53] [WARNING] [main.go:main.main:17] 这是一条warning日志
+[2021-11-09 22:41:53] [Debug] [main.go:main.main:20] 这是一条Error日志, id:10010, name:理想
+[2021-11-09 22:41:53] [FATAL] [main.go:main.main:21] 这是一条Fatal日志
+[2021-11-09 22:41:54] [INFO] [main.go:main.main:16] 这是一条info日志
+[2021-11-09 22:41:54] [WARNING] [main.go:main.main:17] 这是一条warning日志
+[2021-11-09 22:41:54] [Debug] [main.go:main.main:20] 这是一条Error日志, id:10010, name:理想
+[2021-11-09 22:41:54] [FATAL] [main.go:main.main:21] 这是一条Fatal日志
+[2021-11-09 22:41:55] [INFO] [main.go:main.main:16] 这是一条info日志
+[2021-11-09 22:41:55] [WARNING] [main.go:main.main:17] 这是一条warning日志
+[2021-11-09 22:41:55] [Debug] [main.go:main.main:20] 这是一条Error日志, id:10010, name:理想
+[2021-11-09 22:41:55] [FATAL] [main.go:main.main:21] 这是一条Fatal日志
+[2021-11-09 22:41:56] [INFO] [main.go:main.main:16] 这是一条info日志
+[2021-11-09 22:41:56] [WARNING] [main.go:main.main:17] 这是一条warning日志
+[2021-11-09 22:41:56] [Debug] [main.go:main.main:20] 这是一条Error日志, id:10010, name:理想
+[2021-11-09 22:41:56] [FATAL] [main.go:main.main:21] 这是一条Fatal日志
+[2021-11-09 22:41:57] [INFO] [main.go:main.main:16] 这是一条info日志
+[2021-11-09 22:41:57] [WARNING] [main.go:main.main:17] 这是一条warning日志
+[2021-11-09 22:41:57] [Debug] [main.go:main.main:20] 这是一条Error日志, id:10010, name:理想
+[2021-11-09 22:41:57] [FATAL] [main.go:main.main:21] 这是一条Fatal日志
+[2021-11-09 22:41:58] [INFO] [main.go:main.main:16] 这是一条info日志
+[2021-11-09 22:41:58] [WARNING] [main.go:main.main:17] 这是一条warning日志
+[2021-11-09 22:41:58] [Debug] [main.go:main.main:20] 这是一条Error日志, id:10010, name:理想
+[2021-11-09 22:41:58] [FATAL] [main.go:main.main:21] 这是一条Fatal日志
+[2021-11-09 22:41:59] [INFO] [main.go:main.main:16] 这是一条info日志
+[2021-11-09 22:41:59] [WARNING] [main.go:main.main:17] 这是一条warning日志
+[2021-11-09 22:41:59] [Debug] [main.go:main.main:20] 这是一条Error日志, id:10010, name:理想
+[2021-11-09 22:41:59] [FATAL] [main.go:main.main:21] 这是一条Fatal日志
+[2021-11-09 22:42:00] [INFO] [main.go:main.main:16] 这是一条info日志
+[2021-11-09 22:42:00] [WARNING] [main.go:main.main:17] 这是一条warning日志
+[2021-11-09 22:42:00] [Debug] [main.go:main.main:20] 这是一条Error日志, id:10010, name:理想
+[2021-11-09 22:42:00] [FATAL] [main.go:main.main:21] 这是一条Fatal日志
+[2021-11-09 22:42:01] [INFO] [main.go:main.main:16] 这是一条info日志
+[2021-11-09 22:42:01] [WARNING] [main.go:main.main:17] 这是一条warning日志
+[2021-11-09 22:42:01] [Debug] [main.go:main.main:20] 这是一条Error日志, id:10010, name:理想
+[2021-11-09 22:42:01] [FATAL] [main.go:main.main:21] 这是一条Fatal日志
+[2021-11-09 22:42:02] [INFO] [main.go:main.main:16] 这是一条info日志
+[2021-11-09 22:42:02] [WARNING] [main.go:main.main:17] 这是一条warning日志
+[2021-11-09 22:42:02] [Debug] [main.go:main.main:20] 这是一条Error日志, id:10010, name:理想
+[2021-11-09 22:42:02] [FATAL] [main.go:main.main:21] 这是一条Fatal日志
+[2021-11-09 22:42:03] [INFO] [main.go:main.main:16] 这是一条info日志
+[2021-11-09 22:42:03] [WARNING] [main.go:main.main:17] 这是一条warning日志
+[2021-11-09 22:42:03] [Debug] [main.go:main.main:20] 这是一条Error日志, id:10010, name:理想
+[2021-11-09 22:42:03] [FATAL] [main.go:main.main:21] 这是一条Fatal日志
+[2021-11-09 22:42:04] [INFO] [main.go:main.main:16] 这是一条info日志
+[2021-11-09 22:42:04] [WARNING] [main.go:main.main:17] 这是一条warning日志
+[2021-11-09 22:42:04] [Debug] [main.go:main.main:20] 这是一条Error日志, id:10010, name:理想
+[2021-11-09 22:42:04] [FATAL] [main.go:main.main:21] 这是一条Fatal日志
+[2021-11-09 22:42:05] [INFO] [main.go:main.main:16] 这是一条info日志
+[2021-11-09 22:42:05] [WARNING] [main.go:main.main:17] 这是一条warning日志
+[2021-11-09 22:42:05] [Debug] [main.go:main.main:20] 这是一条Error日志, id:10010, name:理想
+[2021-11-09 22:42:05] [FATAL] [main.go:main.main:21] 这是一条Fatal日志
+[2021-11-09 22:42:06] [INFO] [main.go:main.main:16] 这是一条info日志
+[2021-11-09 22:42:06] [WARNING] [main.go:main.main:17] 这是一条warning日志
+[2021-11-09 22:42:06] [Debug] [main.go:main.main:20] 这是一条Error日志, id:10010, name:理想
+[2021-11-09 22:42:06] [FATAL] [main.go:main.main:21] 这是一条Fatal日志
+[2021-11-09 22:42:07] [INFO] [main.go:main.main:16] 这是一条info日志
+[2021-11-09 22:42:07] [WARNING] [main.go:main.main:17] 这是一条warning日志
+[2021-11-09 22:42:07] [Debug] [main.go:main.main:20] 这是一条Error日志, id:10010, name:理想
+[2021-11-09 22:42:07] [FATAL] [main.go:main.main:21] 这是一条Fatal日志
+[2021-11-09 22:42:08] [INFO] [main.go:main.main:16] 这是一条info日志
+[2021-11-09 22:42:08] [WARNING] [main.go:main.main:17] 这是一条warning日志
+[2021-11-09 22:42:08] [Debug] [main.go:main.main:20] 这是一条Error日志, id:10010, name:理想
+[2021-11-09 22:42:08] [FATAL] [main.go:main.main:21] 这是一条Fatal日志
+[2021-11-09 22:42:09] [INFO] [main.go:main.main:16] 这是一条info日志
+[2021-11-09 22:42:09] [WARNING] [main.go:main.main:17] 这是一条warning日志
+[2021-11-09 22:42:09] [Debug] [main.go:main.main:20] 这是一条Error日志, id:10010, name:理想
+[2021-11-09 22:42:09] [FATAL] [main.go:main.main:21] 这是一条Fatal日志
+[2021-11-09 22:42:10] [INFO] [main.go:main.main:16] 这是一条info日志
+[2021-11-09 22:42:10] [WARNING] [main.go:main.main:17] 这是一条warning日志
+[2021-11-09 22:42:10] [Debug] [main.go:main.main:20] 这是一条Error日志, id:10010, name:理想
+[2021-11-09 22:42:10] [FATAL] [main.go:main.main:21] 这是一条Fatal日志
+[2021-11-09 22:42:11] [INFO] [main.go:main.main:16] 这是一条info日志
+[2021-11-09 22:42:11] [WARNING] [main.go:main.main:17] 这是一条warning日志
+[2021-11-09 22:42:11] [Debug] [main.go:main.main:20] 这是一条Error日志, id:10010, name:理想
+[2021-11-09 22:42:11] [FATAL] [main.go:main.main:21] 这是一条Fatal日志
+[2021-11-09 22:42:12] [INFO] [main.go:main.main:16] 这是一条info日志
+[2021-11-09 22:42:12] [WARNING] [main.go:main.main:17] 这是一条warning日志
+[2021-11-09 22:42:12] [Debug] [main.go:main.main:20] 这是一条Error日志, id:10010, name:理想
+[2021-11-09 22:42:12] [FATAL] [main.go:main.main:21] 这是一条Fatal日志
+[2021-11-09 22:42:13] [INFO] [main.go:main.main:16] 这是一条info日志
+[2021-11-09 22:42:13] [WARNING] [main.go:main.main:17] 这是一条warning日志
+[2021-11-09 22:42:13] [Debug] [main.go:main.main:20] 这是一条Error日志, id:10010, name:理想
+[2021-11-09 22:42:13] [FATAL] [main.go:main.main:21] 这是一条Fatal日志
+[2021-11-09 22:42:14] [INFO] [main.go:main.main:16] 这是一条info日志
+[2021-11-09 22:42:14] [WARNING] [main.go:main.main:17] 这是一条warning日志
+[2021-11-09 22:42:14] [Debug] [main.go:main.main:20] 这是一条Error日志, id:10010, name:理想
+[2021-11-09 22:42:14] [FATAL] [main.go:main.main:21] 这是一条Fatal日志
+[2021-11-09 22:42:15] [INFO] [main.go:main.main:16] 这是一条info日志
+[2021-11-09 22:42:15] [WARNING] [main.go:main.main:17] 这是一条warning日志
+[2021-11-09 22:42:15] [Debug] [main.go:main.main:20] 这是一条Error日志, id:10010, name:理想
+[2021-11-09 22:42:15] [FATAL] [main.go:main.main:21] 这是一条Fatal日志
+[2021-11-09 22:42:16] [INFO] [main.go:main.main:16] 这是一条info日志
+[2021-11-09 22:42:16] [WARNING] [main.go:main.main:17] 这是一条warning日志
+[2021-11-09 22:42:16] [Debug] [main.go:main.main:20] 这是一条Error日志, id:10010, name:理想
+[2021-11-09 22:42:16] [FATAL] [main.go:main.main:21] 这是一条Fatal日志
+[2021-11-09 22:42:17] [INFO] [main.go:main.main:16] 这是一条info日志
+[2021-11-09 22:42:17] [WARNING] [main.go:main.main:17] 这是一条warning日志
+[2021-11-09 22:42:17] [Debug] [main.go:main.main:20] 这是一条Error日志, id:10010, name:理想
+[2021-11-09 22:42:17] [FATAL] [main.go:main.main:21] 这是一条Fatal日志
+[2021-11-09 22:42:18] [INFO] [main.go:main.main:16] 这是一条info日志
+[2021-11-09 22:42:18] [WARNING] [main.go:main.main:17] 这是一条warning日志
+[2021-11-09 22:42:18] [Debug] [main.go:main.main:20] 这是一条Error日志, id:10010, name:理想
+[2021-11-09 22:42:18] [FATAL] [main.go:main.main:21] 这是一条Fatal日志
+[2021-11-09 22:42:19] [INFO] [main.go:main.main:16] 这是一条info日志
+[2021-11-09 22:42:19] [WARNING] [main.go:main.main:17] 这是一条warning日志
+[2021-11-09 22:42:19] [Debug] [main.go:main.main:20] 这是一条Error日志, id:10010, name:理想
+[2021-11-09 22:42:19] [FATAL] [main.go:main.main:21] 这是一条Fatal日志
+[2021-11-09 22:42:20] [INFO] [main.go:main.main:16] 这是一条info日志
+[2021-11-09 22:42:20] [WARNING] [main.go:main.main:17] 这是一条warning日志
+[2021-11-09 22:42:20] [Debug] [main.go:main.main:20] 这是一条Error日志, id:10010, name:理想
+[2021-11-09 22:42:20] [FATAL] [main.go:main.main:21] 这是一条Fatal日志
+[2021-11-09 22:42:21] [INFO] [main.go:main.main:16] 这是一条info日志
+[2021-11-09 22:42:21] [WARNING] [main.go:main.main:17] 这是一条warning日志
+[2021-11-09 22:42:21] [Debug] [main.go:main.main:20] 这是一条Error日志, id:10010, name:理想
+[2021-11-09 22:42:21] [FATAL] [main.go:main.main:21] 这是一条Fatal日志
+[2021-11-09 22:42:22] [INFO] [main.go:main.main:16] 这是一条info日志
+[2021-11-09 22:42:22] [WARNING] [main.go:main.main:17] 这是一条warning日志
+[2021-11-09 22:42:22] [Debug] [main.go:main.main:20] 这是一条Error日志, id:10010, name:理想
+[2021-11-09 22:42:22] [FATAL] [main.go:main.main:21] 这是一条Fatal日志
+[2021-11-09 22:42:23] [INFO] [main.go:main.main:16] 这是一条info日志
+[2021-11-09 22:42:23] [WARNING] [main.go:main.main:17] 这是一条warning日志
+[2021-11-09 22:42:23] [Debug] [main.go:main.main:20] 这是一条Error日志, id:10010, name:理想
+[2021-11-09 22:42:23] [FATAL] [main.go:main.main:21] 这是一条Fatal日志
+[2021-11-09 22:42:24] [INFO] [main.go:main.main:16] 这是一条info日志
+[2021-11-09 22:42:24] [WARNING] [main.go:main.main:17] 这是一条warning日志
+[2021-11-09 22:42:24] [Debug] [main.go:main.main:20] 这是一条Error日志, id:10010, name:理想
+[2021-11-09 22:42:24] [FATAL] [main.go:main.main:21] 这是一条Fatal日志
+[2021-11-09 22:42:25] [INFO] [main.go:main.main:16] 这是一条info日志
+[2021-11-09 22:42:25] [WARNING] [main.go:main.main:17] 这是一条warning日志
+[2021-11-09 22:42:25] [Debug] [main.go:main.main:20] 这是一条Error日志, id:10010, name:理想
+[2021-11-09 22:42:25] [FATAL] [main.go:main.main:21] 这是一条Fatal日志
+[2021-11-09 22:42:26] [INFO] [main.go:main.main:16] 这是一条info日志
+[2021-11-09 22:42:26] [WARNING] [main.go:main.main:17] 这是一条warning日志
+[2021-11-09 22:42:26] [Debug] [main.go:main.main:20] 这是一条Error日志, id:10010, name:理想
+[2021-11-09 22:42:26] [FATAL] [main.go:main.main:21] 这是一条Fatal日志
+[2021-11-09 22:42:27] [INFO] [main.go:main.main:16] 这是一条info日志
+[2021-11-09 22:42:27] [WARNING] [main.go:main.main:17] 这是一条warning日志
+[2021-11-09 22:42:27] [Debug] [main.go:main.main:20] 这是一条Error日志, id:10010, name:理想
+[2021-11-09 22:42:27] [FATAL] [main.go:main.main:21] 这是一条Fatal日志
+[2021-11-09 22:42:28] [INFO] [main.go:main.main:16] 这是一条info日志
+[2021-11-09 22:42:28] [WARNING] [main.go:main.main:17] 这是一条warning日志
+[2021-11-09 22:42:28] [Debug] [main.go:main.main:20] 这是一条Error日志, id:10010, name:理想
+[2021-11-09 22:42:28] [FATAL] [main.go:main.main:21] 这是一条Fatal日志
+[2021-11-09 22:42:29] [INFO] [main.go:main.main:16] 这是一条info日志
+[2021-11-09 22:42:29] [WARNING] [main.go:main.main:17] 这是一条warning日志
+[2021-11-09 22:42:29] [Debug] [main.go:main.main:20] 这是一条Error日志, id:10010, name:理想
+[2021-11-09 22:42:29] [FATAL] [main.go:main.main:21] 这是一条Fatal日志
+[2021-11-09 22:42:30] [INFO] [main.go:main.main:16] 这是一条info日志
+[2021-11-09 22:42:30] [WARNING] [main.go:main.main:17] 这是一条warning日志
+[2021-11-09 22:42:30] [Debug] [main.go:main.main:20] 这是一条Error日志, id:10010, name:理想
+[2021-11-09 22:42:30] [FATAL] [main.go:main.main:21] 这是一条Fatal日志
+[2021-11-09 22:42:31] [INFO] [main.go:main.main:16] 这是一条info日志
+[2021-11-09 22:42:31] [WARNING] [main.go:main.main:17] 这是一条warning日志
+[2021-11-09 22:42:31] [Debug] [main.go:main.main:20] 这是一条Error日志, id:10010, name:理想
+[2021-11-09 22:42:31] [FATAL] [main.go:main.main:21] 这是一条Fatal日志
+[2021-11-09 22:42:32] [INFO] [main.go:main.main:16] 这是一条info日志
+[2021-11-09 22:42:32] [WARNING] [main.go:main.main:17] 这是一条warning日志
+[2021-11-09 22:42:32] [Debug] [main.go:main.main:20] 这是一条Error日志, id:10010, name:理想
+[2021-11-09 22:42:32] [FATAL] [main.go:main.main:21] 这是一条Fatal日志
+[2021-11-09 22:42:33] [INFO] [main.go:main.main:16] 这是一条info日志
+[2021-11-09 22:42:33] [WARNING] [main.go:main.main:17] 这是一条warning日志
+[2021-11-09 22:42:33] [Debug] [main.go:main.main:20] 这是一条Error日志, id:10010, name:理想
+[2021-11-09 22:42:33] [FATAL] [main.go:main.main:21] 这是一条Fatal日志
+[2021-11-09 22:42:34] [INFO] [main.go:main.main:16] 这是一条info日志
+[2021-11-09 22:42:34] [WARNING] [main.go:main.main:17] 这是一条warning日志
+[2021-11-09 22:42:34] [Debug] [main.go:main.main:20] 这是一条Error日志, id:10010, name:理想
+[2021-11-09 22:42:34] [FATAL] [main.go:main.main:21] 这是一条Fatal日志
+[2021-11-09 22:42:35] [INFO] [main.go:main.main:16] 这是一条info日志
+[2021-11-09 22:42:35] [WARNING] [main.go:main.main:17] 这是一条warning日志
+[2021-11-09 22:42:35] [Debug] [main.go:main.main:20] 这是一条Error日志, id:10010, name:理想
+[2021-11-09 22:42:35] [FATAL] [main.go:main.main:21] 这是一条Fatal日志
+[2021-11-09 22:42:36] [INFO] [main.go:main.main:16] 这是一条info日志
+[2021-11-09 22:42:36] [WARNING] [main.go:main.main:17] 这是一条warning日志
+[2021-11-09 22:42:36] [Debug] [main.go:main.main:20] 这是一条Error日志, id:10010, name:理想
+[2021-11-09 22:42:36] [FATAL] [main.go:main.main:21] 这是一条Fatal日志
+[2021-11-09 22:42:37] [INFO] [main.go:main.main:16] 这是一条info日志
+[2021-11-09 22:42:37] [WARNING] [main.go:main.main:17] 这是一条warning日志
+[2021-11-09 22:42:37] [Debug] [main.go:main.main:20] 这是一条Error日志, id:10010, name:理想
+[2021-11-09 22:42:37] [FATAL] [main.go:main.main:21] 这是一条Fatal日志
+[2021-11-09 22:42:39] [INFO] [main.go:main.main:16] 这是一条info日志
+[2021-11-09 22:42:39] [WARNING] [main.go:main.main:17] 这是一条warning日志
+[2021-11-09 22:42:39] [Debug] [main.go:main.main:20] 这是一条Error日志, id:10010, name:理想
+[2021-11-09 22:42:39] [FATAL] [main.go:main.main:21] 这是一条Fatal日志
+[2021-11-09 22:42:40] [INFO] [main.go:main.main:16] 这是一条info日志
+[2021-11-09 22:42:40] [WARNING] [main.go:main.main:17] 这是一条warning日志
+[2021-11-09 22:42:40] [Debug] [main.go:main.main:20] 这是一条Error日志, id:10010, name:理想
+[2021-11-09 22:42:40] [FATAL] [main.go:main.main:21] 这是一条Fatal日志
+[2021-11-09 22:42:41] [INFO] [main.go:main.main:16] 这是一条info日志
+[2021-11-09 22:42:41] [WARNING] [main.go:main.main:17] 这是一条warning日志
+[2021-11-09 22:42:41] [Debug] [main.go:main.main:20] 这是一条Error日志, id:10010, name:理想
+[2021-11-09 22:42:41] [FATAL] [main.go:main.main:21] 这是一条Fatal日志
+[2021-11-09 22:42:42] [INFO] [main.go:main.main:16] 这是一条info日志
+[2021-11-09 22:42:42] [WARNING] [main.go:main.main:17] 这是一条warning日志
+[2021-11-09 22:42:42] [Debug] [main.go:main.main:20] 这是一条Error日志, id:10010, name:理想
+[2021-11-09 22:42:42] [FATAL] [main.go:main.main:21] 这是一条Fatal日志
+[2021-11-09 22:42:43] [INFO] [main.go:main.main:16] 这是一条info日志
+[2021-11-09 22:42:43] [WARNING] [main.go:main.main:17] 这是一条warning日志
+[2021-11-09 22:42:43] [Debug] [main.go:main.main:20] 这是一条Error日志, id:10010, name:理想
+[2021-11-09 22:42:43] [FATAL] [main.go:main.main:21] 这是一条Fatal日志
+[2021-11-09 22:42:44] [INFO] [main.go:main.main:16] 这是一条info日志
+[2021-11-09 22:42:44] [WARNING] [main.go:main.main:17] 这是一条warning日志
+[2021-11-09 22:42:44] [Debug] [main.go:main.main:20] 这是一条Error日志, id:10010, name:理想
+[2021-11-09 22:42:44] [FATAL] [main.go:main.main:21] 这是一条Fatal日志
+[2021-11-09 22:42:45] [INFO] [main.go:main.main:16] 这是一条info日志
+[2021-11-09 22:42:45] [WARNING] [main.go:main.main:17] 这是一条warning日志
+[2021-11-09 22:42:45] [Debug] [main.go:main.main:20] 这是一条Error日志, id:10010, name:理想
+[2021-11-09 22:42:45] [FATAL] [main.go:main.main:21] 这是一条Fatal日志
+[2021-11-09 22:42:46] [INFO] [main.go:main.main:16] 这是一条info日志
+[2021-11-09 22:42:46] [WARNING] [main.go:main.main:17] 这是一条warning日志
+[2021-11-09 22:42:46] [Debug] [main.go:main.main:20] 这是一条Error日志, id:10010, name:理想
+[2021-11-09 22:42:46] [FATAL] [main.go:main.main:21] 这是一条Fatal日志
+[2021-11-09 22:42:47] [INFO] [main.go:main.main:16] 这是一条info日志
+[2021-11-09 22:42:47] [WARNING] [main.go:main.main:17] 这是一条warning日志
+[2021-11-09 22:42:47] [Debug] [main.go:main.main:20] 这是一条Error日志, id:10010, name:理想
+[2021-11-09 22:42:47] [FATAL] [main.go:main.main:21] 这是一条Fatal日志
+[2021-11-09 22:42:48] [INFO] [main.go:main.main:16] 这是一条info日志
+[2021-11-09 22:42:48] [WARNING] [main.go:main.main:17] 这是一条warning日志
+[2021-11-09 22:42:48] [Debug] [main.go:main.main:20] 这是一条Error日志, id:10010, name:理想
+[2021-11-09 22:42:48] [FATAL] [main.go:main.main:21] 这是一条Fatal日志
+[2021-11-09 22:42:49] [INFO] [main.go:main.main:16] 这是一条info日志
+[2021-11-09 22:42:49] [WARNING] [main.go:main.main:17] 这是一条warning日志
+[2021-11-09 22:42:49] [Debug] [main.go:main.main:20] 这是一条Error日志, id:10010, name:理想
+[2021-11-09 22:42:49] [FATAL] [main.go:main.main:21] 这是一条Fatal日志
+[2021-11-09 22:42:50] [INFO] [main.go:main.main:16] 这是一条info日志
+[2021-11-09 22:42:50] [WARNING] [main.go:main.main:17] 这是一条warning日志
+[2021-11-09 22:42:50] [Debug] [main.go:main.main:20] 这是一条Error日志, id:10010, name:理想
+[2021-11-09 22:42:50] [FATAL] [main.go:main.main:21] 这是一条Fatal日志
+[2021-11-09 22:42:51] [INFO] [main.go:main.main:16] 这是一条info日志
+[2021-11-09 22:42:51] [WARNING] [main.go:main.main:17] 这是一条warning日志
+[2021-11-09 22:42:51] [Debug] [main.go:main.main:20] 这是一条Error日志, id:10010, name:理想
+[2021-11-09 22:42:51] [FATAL] [main.go:main.main:21] 这是一条Fatal日志
+[2021-11-09 22:42:52] [INFO] [main.go:main.main:16] 这是一条info日志
+[2021-11-09 22:42:52] [WARNING] [main.go:main.main:17] 这是一条warning日志
+[2021-11-09 22:42:52] [Debug] [main.go:main.main:20] 这是一条Error日志, id:10010, name:理想
+[2021-11-09 22:42:52] [FATAL] [main.go:main.main:21] 这是一条Fatal日志
+[2021-11-09 22:42:53] [INFO] [main.go:main.main:16] 这是一条info日志
+[2021-11-09 22:42:53] [WARNING] [main.go:main.main:17] 这是一条warning日志
+[2021-11-09 22:42:53] [Debug] [main.go:main.main:20] 这是一条Error日志, id:10010, name:理想
+[2021-11-09 22:42:53] [FATAL] [main.go:main.main:21] 这是一条Fatal日志
+[2021-11-09 22:42:54] [INFO] [main.go:main.main:16] 这是一条info日志
+[2021-11-09 22:42:54] [WARNING] [main.go:main.main:17] 这是一条warning日志
+[2021-11-09 22:42:54] [Debug] [main.go:main.main:20] 这是一条Error日志, id:10010, name:理想
+[2021-11-09 22:42:54] [FATAL] [main.go:main.main:21] 这是一条Fatal日志
+[2021-11-09 22:42:55] [INFO] [main.go:main.main:16] 这是一条info日志
+[2021-11-09 22:42:55] [WARNING] [main.go:main.main:17] 这是一条warning日志
+[2021-11-09 22:42:55] [Debug] [main.go:main.main:20] 这是一条Error日志, id:10010, name:理想
+[2021-11-09 22:42:55] [FATAL] [main.go:main.main:21] 这是一条Fatal日志
+[2021-11-09 22:42:56] [INFO] [main.go:main.main:16] 这是一条info日志
+[2021-11-09 22:42:56] [WARNING] [main.go:main.main:17] 这是一条warning日志
+[2021-11-09 22:42:56] [Debug] [main.go:main.main:20] 这是一条Error日志, id:10010, name:理想
+[2021-11-09 22:42:56] [FATAL] [main.go:main.main:21] 这是一条Fatal日志
+[2021-11-09 22:42:57] [INFO] [main.go:main.main:16] 这是一条info日志
+[2021-11-09 22:42:57] [WARNING] [main.go:main.main:17] 这是一条warning日志
+[2021-11-09 22:42:57] [Debug] [main.go:main.main:20] 这是一条Error日志, id:10010, name:理想
+[2021-11-09 22:42:57] [FATAL] [main.go:main.main:21] 这是一条Fatal日志
+[2021-11-09 22:42:58] [INFO] [main.go:main.main:16] 这是一条info日志
+[2021-11-09 22:42:58] [WARNING] [main.go:main.main:17] 这是一条warning日志
+[2021-11-09 22:42:58] [Debug] [main.go:main.main:20] 这是一条Error日志, id:10010, name:理想
+[2021-11-09 22:42:58] [FATAL] [main.go:main.main:21] 这是一条Fatal日志
+[2021-11-09 22:42:59] [INFO] [main.go:main.main:16] 这是一条info日志
+[2021-11-09 22:42:59] [WARNING] [main.go:main.main:17] 这是一条warning日志
+[2021-11-09 22:42:59] [Debug] [main.go:main.main:20] 这是一条Error日志, id:10010, name:理想
+[2021-11-09 22:42:59] [FATAL] [main.go:main.main:21] 这是一条Fatal日志
+[2021-11-09 22:43:00] [INFO] [main.go:main.main:16] 这是一条info日志
+[2021-11-09 22:43:00] [WARNING] [main.go:main.main:17] 这是一条warning日志
+[2021-11-09 22:43:00] [Debug] [main.go:main.main:20] 这是一条Error日志, id:10010, name:理想
+[2021-11-09 22:43:00] [FATAL] [main.go:main.main:21] 这是一条Fatal日志
+[2021-11-09 22:43:01] [INFO] [main.go:main.main:16] 这是一条info日志
+[2021-11-09 22:43:01] [WARNING] [main.go:main.main:17] 这是一条warning日志
+[2021-11-09 22:43:01] [Debug] [main.go:main.main:20] 这是一条Error日志, id:10010, name:理想
+[2021-11-09 22:43:01] [FATAL] [main.go:main.main:21] 这是一条Fatal日志
+[2021-11-09 22:43:02] [INFO] [main.go:main.main:16] 这是一条info日志
+[2021-11-09 22:43:02] [WARNING] [main.go:main.main:17] 这是一条warning日志
+[2021-11-09 22:43:02] [Debug] [main.go:main.main:20] 这是一条Error日志, id:10010, name:理想
+[2021-11-09 22:43:02] [FATAL] [main.go:main.main:21] 这是一条Fatal日志
+[2021-11-09 22:43:03] [INFO] [main.go:main.main:16] 这是一条info日志
+[2021-11-09 22:43:03] [WARNING] [main.go:main.main:17] 这是一条warning日志
+[2021-11-09 22:43:03] [Debug] [main.go:main.main:20] 这是一条Error日志, id:10010, name:理想
+[2021-11-09 22:43:03] [FATAL] [main.go:main.main:21] 这是一条Fatal日志
+[2021-11-09 22:43:04] [INFO] [main.go:main.main:16] 这是一条info日志
+[2021-11-09 22:43:04] [WARNING] [main.go:main.main:17] 这是一条warning日志
+[2021-11-09 22:43:04] [Debug] [main.go:main.main:20] 这是一条Error日志, id:10010, name:理想
+[2021-11-09 22:43:04] [FATAL] [main.go:main.main:21] 这是一条Fatal日志
+[2021-11-09 22:43:05] [INFO] [main.go:main.main:16] 这是一条info日志
+[2021-11-09 22:43:05] [WARNING] [main.go:main.main:17] 这是一条warning日志
+[2021-11-09 22:43:05] [Debug] [main.go:main.main:20] 这是一条Error日志, id:10010, name:理想
+[2021-11-09 22:43:05] [FATAL] [main.go:main.main:21] 这是一条Fatal日志
+[2021-11-09 22:43:06] [INFO] [main.go:main.main:16] 这是一条info日志
+[2021-11-09 22:43:06] [WARNING] [main.go:main.main:17] 这是一条warning日志
+[2021-11-09 22:43:06] [Debug] [main.go:main.main:20] 这是一条Error日志, id:10010, name:理想
+[2021-11-09 22:43:06] [FATAL] [main.go:main.main:21] 这是一条Fatal日志
+[2021-11-09 22:43:07] [INFO] [main.go:main.main:16] 这是一条info日志
+[2021-11-09 22:43:07] [WARNING] [main.go:main.main:17] 这是一条warning日志
+[2021-11-09 22:43:07] [Debug] [main.go:main.main:20] 这是一条Error日志, id:10010, name:理想
+[2021-11-09 22:43:07] [FATAL] [main.go:main.main:21] 这是一条Fatal日志
+[2021-11-09 22:43:08] [INFO] [main.go:main.main:16] 这是一条info日志
+[2021-11-09 22:43:08] [WARNING] [main.go:main.main:17] 这是一条warning日志
+[2021-11-09 22:43:08] [Debug] [main.go:main.main:20] 这是一条Error日志, id:10010, name:理想
+[2021-11-09 22:43:08] [FATAL] [main.go:main.main:21] 这是一条Fatal日志
+[2021-11-09 22:43:09] [INFO] [main.go:main.main:16] 这是一条info日志
+[2021-11-09 22:43:09] [WARNING] [main.go:main.main:17] 这是一条warning日志
+[2021-11-09 22:43:09] [Debug] [main.go:main.main:20] 这是一条Error日志, id:10010, name:理想
+[2021-11-09 22:43:09] [FATAL] [main.go:main.main:21] 这是一条Fatal日志
+[2021-11-09 22:43:10] [INFO] [main.go:main.main:16] 这是一条info日志
+[2021-11-09 22:43:10] [WARNING] [main.go:main.main:17] 这是一条warning日志
+[2021-11-09 22:43:10] [Debug] [main.go:main.main:20] 这是一条Error日志, id:10010, name:理想
+[2021-11-09 22:43:10] [FATAL] [main.go:main.main:21] 这是一条Fatal日志
+[2021-11-09 22:43:11] [INFO] [main.go:main.main:16] 这是一条info日志
+[2021-11-09 22:43:11] [WARNING] [main.go:main.main:17] 这是一条warning日志
+[2021-11-09 22:43:11] [Debug] [main.go:main.main:20] 这是一条Error日志, id:10010, name:理想
+[2021-11-09 22:43:11] [FATAL] [main.go:main.main:21] 这是一条Fatal日志
+[2021-11-09 22:43:12] [INFO] [main.go:main.main:16] 这是一条info日志
+[2021-11-09 22:43:12] [WARNING] [main.go:main.main:17] 这是一条warning日志
+[2021-11-09 22:43:12] [Debug] [main.go:main.main:20] 这是一条Error日志, id:10010, name:理想
+[2021-11-09 22:43:12] [FATAL] [main.go:main.main:21] 这是一条Fatal日志
+[2021-11-09 22:43:13] [INFO] [main.go:main.main:16] 这是一条info日志
+[2021-11-09 22:43:13] [WARNING] [main.go:main.main:17] 这是一条warning日志
+[2021-11-09 22:43:13] [Debug] [main.go:main.main:20] 这是一条Error日志, id:10010, name:理想
+[2021-11-09 22:43:13] [FATAL] [main.go:main.main:21] 这是一条Fatal日志
+[2021-11-09 22:43:14] [INFO] [main.go:main.main:16] 这是一条info日志
+[2021-11-09 22:43:14] [WARNING] [main.go:main.main:17] 这是一条warning日志
+[2021-11-09 22:43:14] [Debug] [main.go:main.main:20] 这是一条Error日志, id:10010, name:理想
+[2021-11-09 22:43:14] [FATAL] [main.go:main.main:21] 这是一条Fatal日志
+[2021-11-09 22:43:15] [INFO] [main.go:main.main:16] 这是一条info日志
+[2021-11-09 22:43:15] [WARNING] [main.go:main.main:17] 这是一条warning日志
+[2021-11-09 22:43:15] [Debug] [main.go:main.main:20] 这是一条Error日志, id:10010, name:理想
+[2021-11-09 22:43:15] [FATAL] [main.go:main.main:21] 这是一条Fatal日志
+[2021-11-09 22:43:16] [INFO] [main.go:main.main:16] 这是一条info日志
+[2021-11-09 22:43:16] [WARNING] [main.go:main.main:17] 这是一条warning日志
+[2021-11-09 22:43:16] [Debug] [main.go:main.main:20] 这是一条Error日志, id:10010, name:理想
+[2021-11-09 22:43:16] [FATAL] [main.go:main.main:21] 这是一条Fatal日志
+[2021-11-09 22:43:17] [INFO] [main.go:main.main:16] 这是一条info日志
+[2021-11-09 22:43:17] [WARNING] [main.go:main.main:17] 这是一条warning日志
+[2021-11-09 22:43:17] [Debug] [main.go:main.main:20] 这是一条Error日志, id:10010, name:理想
+[2021-11-09 22:43:17] [FATAL] [main.go:main.main:21] 这是一条Fatal日志
+[2021-11-09 22:43:18] [INFO] [main.go:main.main:16] 这是一条info日志
+[2021-11-09 22:43:18] [WARNING] [main.go:main.main:17] 这是一条warning日志
+[2021-11-09 22:43:18] [Debug] [main.go:main.main:20] 这是一条Error日志, id:10010, name:理想
+[2021-11-09 22:43:18] [FATAL] [main.go:main.main:21] 这是一条Fatal日志
+[2021-11-09 22:43:19] [INFO] [main.go:main.main:16] 这是一条info日志
+[2021-11-09 22:43:19] [WARNING] [main.go:main.main:17] 这是一条warning日志
+[2021-11-09 22:43:19] [Debug] [main.go:main.main:20] 这是一条Error日志, id:10010, name:理想
+[2021-11-09 22:43:19] [FATAL] [main.go:main.main:21] 这是一条Fatal日志
+[2021-11-09 22:43:20] [INFO] [main.go:main.main:16] 这是一条info日志
+[2021-11-09 22:43:20] [WARNING] [main.go:main.main:17] 这是一条warning日志
+[2021-11-09 22:43:20] [Debug] [main.go:main.main:20] 这是一条Error日志, id:10010, name:理想
+[2021-11-09 22:43:20] [FATAL] [main.go:main.main:21] 这是一条Fatal日志
+[2021-11-09 22:43:21] [INFO] [main.go:main.main:16] 这是一条info日志
+[2021-11-09 22:43:21] [WARNING] [main.go:main.main:17] 这是一条warning日志
+[2021-11-09 22:43:21] [Debug] [main.go:main.main:20] 这是一条Error日志, id:10010, name:理想
+[2021-11-09 22:43:21] [FATAL] [main.go:main.main:21] 这是一条Fatal日志
+[2021-11-09 22:43:22] [INFO] [main.go:main.main:16] 这是一条info日志
+[2021-11-09 22:43:22] [WARNING] [main.go:main.main:17] 这是一条warning日志
+[2021-11-09 22:43:22] [Debug] [main.go:main.main:20] 这是一条Error日志, id:10010, name:理想
+[2021-11-09 22:43:22] [FATAL] [main.go:main.main:21] 这是一条Fatal日志
+[2021-11-09 22:43:23] [INFO] [main.go:main.main:16] 这是一条info日志
+[2021-11-09 22:43:23] [WARNING] [main.go:main.main:17] 这是一条warning日志
+[2021-11-09 22:43:23] [Debug] [main.go:main.main:20] 这是一条Error日志, id:10010, name:理想
+[2021-11-09 22:43:23] [FATAL] [main.go:main.main:21] 这是一条Fatal日志
+[2021-11-09 22:43:24] [INFO] [main.go:main.main:16] 这是一条info日志
+[2021-11-09 22:43:24] [WARNING] [main.go:main.main:17] 这是一条warning日志
+[2021-11-09 22:43:24] [Debug] [main.go:main.main:20] 这是一条Error日志, id:10010, name:理想
+[2021-11-09 22:43:24] [FATAL] [main.go:main.main:21] 这是一条Fatal日志
+[2021-11-09 22:43:25] [INFO] [main.go:main.main:16] 这是一条info日志
+[2021-11-09 22:43:25] [WARNING] [main.go:main.main:17] 这是一条warning日志
+[2021-11-09 22:43:25] [Debug] [main.go:main.main:20] 这是一条Error日志, id:10010, name:理想
+[2021-11-09 22:43:25] [FATAL] [main.go:main.main:21] 这是一条Fatal日志
+[2021-11-09 22:43:26] [INFO] [main.go:main.main:16] 这是一条info日志
+[2021-11-09 22:43:26] [WARNING] [main.go:main.main:17] 这是一条warning日志
+[2021-11-09 22:43:26] [Debug] [main.go:main.main:20] 这是一条Error日志, id:10010, name:理想
+[2021-11-09 22:43:26] [FATAL] [main.go:main.main:21] 这是一条Fatal日志
+[2021-11-09 22:43:27] [INFO] [main.go:main.main:16] 这是一条info日志
+[2021-11-09 22:43:27] [WARNING] [main.go:main.main:17] 这是一条warning日志
+[2021-11-09 22:43:27] [Debug] [main.go:main.main:20] 这是一条Error日志, id:10010, name:理想
+[2021-11-09 22:43:27] [FATAL] [main.go:main.main:21] 这是一条Fatal日志
+[2021-11-09 22:43:28] [INFO] [main.go:main.main:16] 这是一条info日志
+[2021-11-09 22:43:28] [WARNING] [main.go:main.main:17] 这是一条warning日志
+[2021-11-09 22:43:28] [Debug] [main.go:main.main:20] 这是一条Error日志, id:10010, name:理想
+[2021-11-09 22:43:28] [FATAL] [main.go:main.main:21] 这是一条Fatal日志
+[2021-11-09 22:43:29] [INFO] [main.go:main.main:16] 这是一条info日志
+[2021-11-09 22:43:29] [WARNING] [main.go:main.main:17] 这是一条warning日志
+[2021-11-09 22:43:29] [Debug] [main.go:main.main:20] 这是一条Error日志, id:10010, name:理想
+[2021-11-09 22:43:29] [FATAL] [main.go:main.main:21] 这是一条Fatal日志
+[2021-11-09 22:43:30] [INFO] [main.go:main.main:16] 这是一条info日志
+[2021-11-09 22:43:30] [WARNING] [main.go:main.main:17] 这是一条warning日志
+[2021-11-09 22:43:30] [Debug] [main.go:main.main:20] 这是一条Error日志, id:10010, name:理想
+[2021-11-09 22:43:30] [FATAL] [main.go:main.main:21] 这是一条Fatal日志
+[2021-11-09 22:43:31] [INFO] [main.go:main.main:16] 这是一条info日志
+[2021-11-09 22:43:31] [WARNING] [main.go:main.main:17] 这是一条warning日志
+[2021-11-09 22:43:31] [Debug] [main.go:main.main:20] 这是一条Error日志, id:10010, name:理想
+[2021-11-09 22:43:31] [FATAL] [main.go:main.main:21] 这是一条Fatal日志
+[2021-11-09 22:43:32] [INFO] [main.go:main.main:16] 这是一条info日志
+[2021-11-09 22:43:32] [WARNING] [main.go:main.main:17] 这是一条warning日志
+[2021-11-09 22:43:32] [Debug] [main.go:main.main:20] 这是一条Error日志, id:10010, name:理想
+[2021-11-09 22:43:32] [FATAL] [main.go:main.main:21] 这是一条Fatal日志
+[2021-11-09 22:43:33] [INFO] [main.go:main.main:16] 这是一条info日志
+[2021-11-09 22:43:33] [WARNING] [main.go:main.main:17] 这是一条warning日志
+[2021-11-09 22:43:33] [Debug] [main.go:main.main:20] 这是一条Error日志, id:10010, name:理想
+[2021-11-09 22:43:33] [FATAL] [main.go:main.main:21] 这是一条Fatal日志
